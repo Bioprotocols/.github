@@ -1,6 +1,6 @@
 Welcome to the Bioprotocols Community landing page!
 
-![A image showing that PAML is combined from the Unified Modeling Language (UML) for the Activity model, the Synthetic Biology Open Language (SBOL) for Object model and materials, Aquarium, the Laboratory Operating System for Sample Typing, Autoprotocol for Atomic action libraries, PROV-O (from W3C) for the execution history](summary.png)
+![A image showing that PAML is combined from the Unified Modeling Language (UML) for the Activity model, the Synthetic Biology Open Language (SBOL) for Object model and materials, Aquarium, the Laboratory Operating System for Sample Typing, Autoprotocol for Atomic action libraries, PROV-O (from W3C) for the execution history](/images/summary.png)
 
 An open community developing a free and open standard for representation of biological protocols.
 
