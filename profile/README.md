@@ -15,6 +15,7 @@ IWBDA 2022 Notebooks:
 - [Opentrons](https://colab.research.google.com/drive/1VCwcpd_zJ4zWbxBPIfHV6a0uWGcpthnm?usp=sharing)
 - [pH Calibration](https://colab.research.google.com/drive/1QRvgF-e9EWac47t7V0s5_o74l2JfGhR1#scrollTo=VuMvdDN2LQoQ)
 - [Ludox Calibration](https://colab.research.google.com/drive/1WPvQ0REjHMEsginxXMj1ewqfFHZqSyM8?usp=sharing)
+- [Opentrons PCR](https://colab.research.google.com/drive/1R76oDLSnFzJXmPdIoX64F-5cwfCkju5O?usp=sharing)
 
 ---
 
