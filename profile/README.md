@@ -11,6 +11,10 @@ Please also see the `collab-bioprotocols` channel on the Bits In Bio Slack to pa
 [https://app.slack.com/client/T02RKFYQV5L/C02UJJ3AND8](https://bitsinbio.substack.com/p/introducing-bits-in-bio?showWelcome=true&s=r)
 
 ---
+IWBDA 2022 Notebooks:
+- [Opentrons](https://colab.research.google.com/drive/1VCwcpd_zJ4zWbxBPIfHV6a0uWGcpthnm?usp=sharing)
+
+---
 
 The last major workshops on LabOP took place in October 2022 at the COMBINE 2022 virtual converence: 
 [https://combine-org.github.io/events/](https://combine-org.github.io/events/)
