@@ -10,6 +10,8 @@ Please join our Bioprotocols Google Group, if you would like to see our mailing 
 Please also see the `collab-bioprotocols` channel on the Bits In Bio Slack to participate in ongoing discussions. (details to join Bits-In-Bio here: [https://bitsinbio.org](https://bitsinbio.org))
 [https://app.slack.com/client/T02RKFYQV5L/C02UJJ3AND8](https://bitsinbio.substack.com/p/introducing-bits-in-bio?showWelcome=true&s=r)
 
+If you'd like to financially support the community & the development of LabOP, check out our Open Collective page: **https://opencollective.com/bioprotocols** (And read up on our governance to see how we ensure support is well spent! https://bioprotocols.github.io/labop/about)
+
 ---
 IWBDA 2022 Notebooks:
 - [Opentrons](https://colab.research.google.com/drive/1VCwcpd_zJ4zWbxBPIfHV6a0uWGcpthnm?usp=sharing)
